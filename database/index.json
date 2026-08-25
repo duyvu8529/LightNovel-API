@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "novel_1787652985328",
+    "title": "都市伝説 (日本語)",
+    "author": "ケン先生",
+    "genres": "フャンタジー",
+    "posterPath": "database/novels/novel_1787652985328/poster.jpg",
+    "chapterCount": 0,
+    "views": 0,
+    "createdAt": "2026-08-25T10:16:31.875Z"
+  }
+]
